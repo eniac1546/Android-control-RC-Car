@@ -13,7 +13,7 @@ We need some components for this project
 
 5. Bluetooth Module - You can use either HC05 or HC06 bluetooth moduleboth will work for this project.
 
-6.Arduino- You can use Arduini uno as well as arduino nano (Arduinio uno is preferred as it will reduce the wirings from the bread board).
+6. Arduino- You can use Arduino uno as well as arduino nano (Arduinio uno is preferred as it will reduce the wirings from the bread board).
 
 7. Bread Board -(It's upto you. I havent use the breadboard in this project, but i used the breadboard while primery testing)
 
